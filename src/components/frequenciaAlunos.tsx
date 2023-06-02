@@ -2,24 +2,26 @@ import { useState } from 'react';
 
 const ListaPresenca = () => {
   const alunos = [
-    'Ana Julia Machado de Moura',
-    'Ana Laura Baptista Corrêa',
+    'Alice Cardoso Pereira',
+    'Ana Júlia Machado de Moura',
+    'Ana Laura Batista Corrêa',
     'Ana Luiza Ferreira Bernardo',
     'Arthur de Oliveira Bonifácio',
-    'Arthur Henrique Soares Gitirana Ferreira',
+    'Arthur Henrique Soares Gitirana',
     'Davi Guilherme Chaves Dias',
-    'Emanuelly Oliveira Danezzi',
     'Enzo Castro Miranda',
     'Gustavo Santos Oliveira',
     'Isaque Mendes Antunes',
     'Izabella Estrela Bastos',
-    'João Pedro Monteiro Celestino',
+    'João Pedro Monteiro',
     'Laura Beatriz da Silva Santos',
     'Laura de Oliveira Bonifácio',
-    'Laura Diniz Duraes Rodrigues',
+    'Laura Diniz Durães Rodrigues',
     'Marina Aparecida Cordeiro Lima',
+    'Miguel Alves',
     'Miguel Silva Borges',
-    'Samuel Vieira Ataide'
+    'Miguel Soares Ferreira Miranda',
+    'Samuel Vieira Ataíde'
   ];
 
   const diasSemana = ['Seg', 'Ter', 'Qua', 'Qui', 'Sex'];
